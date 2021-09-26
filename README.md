@@ -1,13 +1,13 @@
-####![AndroidAndroidOsGIF](https://user-images.githubusercontent.com/77521615/134804937-003718a9-6a09-4cf1-9bb4-2f5441d01581.gif)
+![AndroidAndroidOsGIF](https://user-images.githubusercontent.com/77521615/134804937-003718a9-6a09-4cf1-9bb4-2f5441d01581.gif)
 # water_pi 💧
 
 A new Flutter project.
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+##This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+###A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
